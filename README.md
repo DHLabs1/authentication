@@ -1,6 +1,6 @@
 # Authentication in Microsoft Azure's Entra ID  <p align="center"> 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="600" height="400" alt="image" src="https://github.com/DHLabs1/authentication/blob/97948f4ccd1914442d8efba6eb7b79712f2904a0/screenshots/560031642-14806b36-bc52-44a8-a825-615241d884e0.png" />
 </p> 
 
 <h1>Authentication Methods for Users (Azure)</h1>
@@ -20,7 +20,7 @@ This tutorial outlines the process of assigning Authentication methods to user a
 <h2>Authentication Methods </h2> 
 
 <p> 
-<img width="1497" height="772" alt="image" src="https://github.com/userattachments/assets/a5354ace-9dad-4583-90a3-2e0dfb74bad1" /> 
+<img width="1497" height="772" alt="image" src="https://github.com/DHLabs1/authentication/blob/97948f4ccd1914442d8efba6eb7b79712f2904a0/screenshots/Kobe%20Bryant.JPG" /> 
 
 </p> 
 <p> 
@@ -29,7 +29,7 @@ Assigned phone number as Authentication method for user Kobe Bryant.
 <br /> 
 
 <p> 
-<img width="1480" height="678" alt="image" src="https://github.com/userattachments/assets/e0d96c87-4df3-459a-88bb-44fcabafb150" /> 
+<img width="1480" height="678" alt="image" src="https://github.com/DHLabs1/authentication/blob/97948f4ccd1914442d8efba6eb7b79712f2904a0/screenshots/Kevin%20Durant.JPG" /> 
 
 
 
